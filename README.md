@@ -1,7 +1,5 @@
 # Ansible Role: NFS
 
-[![CI](https://github.com/geerlingguy/ansible-role-nfs/workflows/CI/badge.svg?event=push)](https://github.com/geerlingguy/ansible-role-nfs/actions?query=workflow%3ACI)
-
 Installs NFS utilities on RedHat/CentOS or Debian/Ubuntu.
 
 ## Requirements
@@ -34,7 +32,3 @@ None.
 ## License
 
 MIT / BSD
-
-## Author Information
-
-This role was created in 2014 by [Jeff Geerling](https://www.jeffgeerling.com/), author of [Ansible for DevOps](https://www.ansiblefordevops.com/).
